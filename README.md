@@ -6,7 +6,7 @@ Web scarpping of data from the airbnb site is difficult. Hence we used data from
 
 ### Business Problem Solved: 
 Considering yourself key business stakeholder, I wanted to know, how are airbnb performing in one of my favourite city, Amesterdam! 
-<br>Question 1: How much are the top AIRBNB owners making in Amesterdam? 
+<br>Question 1: How much are the top Airbnb owners making in Amesterdam? 
 <br>Question 2: Who are the potential customer list for Airbnb Cleaning Business? 
 
 Tools used: MySQL, MySQL Workbench, Python, WinZip

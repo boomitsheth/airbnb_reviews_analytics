@@ -1,5 +1,5 @@
 # Airbnb Reviews Analytics
-Web scarpping of data from the airbnb site is difficult. Hence we used data from inside_airbnb. 
+Web scarpping of data from the airbnb site is difficult. Hence I used data from inside_airbnb. 
 <br> Data Set: http://insideairbnb.com/get-the-data/ 
 <br> We took data set from Amsterdam City data set from the pool of data set available.  
 <br>I took help of generative AI to write a python code for me to help me view csv files in mysql workbench. 
